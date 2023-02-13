@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\OOP-PROJECTS\arrays\Source.cpp(19,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\OOP-PROJECTS\arrays\Source.cpp(44,30): error C2664: 'void std::swap<int*,0>(_Ty &,_Ty &) noexcept(<expr>)': cannot convert argument 1 from 'int *' to '_Ty &'
+          with
+          [
+              _Ty=int *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\utility(98,19): message : see declaration of 'std::swap'
